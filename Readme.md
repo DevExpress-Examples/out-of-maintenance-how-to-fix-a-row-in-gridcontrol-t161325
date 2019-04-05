@@ -3,7 +3,7 @@
 
 * [FixedRow.cs](./CS/FixedRowExample/Behavior/FixedRow.cs) (VB: [FixedRow.vb](./VB/FixedRowExample/Behavior/FixedRow.vb))
 * [MainWindow.xaml](./CS/FixedRowExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/FixedRowExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/FixedRowExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/FixedRowExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/FixedRowExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/FixedRowExample/MainWindow.xaml.vb))
 * [TaskViewModel.cs](./CS/FixedRowExample/ViewModel/TaskViewModel.cs) (VB: [TaskViewModel.vb](./VB/FixedRowExample/ViewModel/TaskViewModel.vb))
 <!-- default file list end -->
 # How to fix a row in GridControl
